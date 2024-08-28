@@ -1,0 +1,13 @@
+<resources>
+    <!-- 다른 스타일들 -->
+
+    <style name="ShapeAppearance_App_Corner">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerFamilyBottomLeft">rounded</item>
+        <item name="cornerFamilyBottomRight">rounded</item>
+        <item name="cornerFamilyTopLeft">rounded</item>
+        <item name="cornerFamilyTopRight">rounded</item>
+        <item name="cornerSize">12dp</item> <!-- 원하는 모서리 크기로 조정 -->
+    </style>
+
+</resources>

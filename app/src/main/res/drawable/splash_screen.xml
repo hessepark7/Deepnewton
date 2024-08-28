@@ -1,0 +1,8 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/white"/>
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/dn1" /> <!-- 스플래시 이미지 리소스 -->
+    </item>
+</layer-list>

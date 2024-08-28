@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "601560389955",
+    "project_id": "deepnewton-150f9",
+    "storage_bucket": "deepnewton-150f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601560389955:android:f4c8bff4387cf77a1db7f6",
+        "android_client_info": {
+          "package_name": "com.example.deepnewton"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOkNe1ja_DdQYvl0o8GP-TN6XxkpzMQIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
