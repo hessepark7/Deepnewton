@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">딥뉴턴</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_ingredient">Ingredients</string>
 </resources>
