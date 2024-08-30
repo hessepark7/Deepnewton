@@ -3,22 +3,27 @@
 
     <item
         android:id="@+id/nav_home"
-        android:icon="@drawable/home"
-        android:title="Home" />
+        android:icon="@drawable/capture"
+        android:title=""
+        />
 
     <item
         android:id="@+id/nav_search"
-        android:icon="@drawable/home"
-        android:title="Search" />
+        android:icon="@drawable/benchmarking"
+        android:title="" />
+
+    <item
+        android:id="@+id/home1"
+        android:title="" />
 
     <item
         android:id="@+id/nav_notifications"
-        android:icon="@drawable/home"
-        android:title="Notifications" />
+        android:icon="@drawable/analyze"
+        android:title="" />
 
     <item
         android:id="@+id/nav_profile"
-        android:icon="@drawable/home"
-        android:title="Profile" />
+        android:icon="@drawable/settings"
+        android:title="" />
 
 </menu>
